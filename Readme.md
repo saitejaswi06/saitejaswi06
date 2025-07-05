@@ -37,7 +37,7 @@ Electrical & Electronics Engineering student @ **NIT Calicut**, passionate about
 
 ---
 
-## My Projects | [View Project](https://saitejaswi06.github.io/Portfolio/)
+## My Projects | [View Projects](https://saitejaswi06.github.io/Portfolio/)
 
 ### Semi-humanoid Robot (RIGGU) 
 - ROS2-driven differential drive robot using ESP32 micro-ROS and real-time joystick control.
