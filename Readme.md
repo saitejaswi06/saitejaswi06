@@ -16,8 +16,10 @@
   <a href="https://github.com/saitejaswi06" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Projects-black?style=flat-square&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:saitejaswi1002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Let's Connect-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:saitejaswi1002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-saitejaswi1002@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
   </a>
 </p>
 
