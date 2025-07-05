@@ -1,6 +1,6 @@
 
 
-# Hello, there! I'm [Sai Tejaswi](https://saitejaswi06.github.io/Portfolio/) 🚀
+# Hello, there! I'm [Sai Tejaswi](https://saitejaswi06.github.io/Portfolio/) 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75000&width=435&lines=Turning+circuits+into+solutions...;Building+robots+with+intelligence;Exploring+the+world+of+VLSI" alt="Typing SVG">
@@ -37,9 +37,9 @@ Electrical & Electronics Engineering student @ **NIT Calicut**, passionate about
 
 ---
 
-## 🚀 Featured Projects
+## My Projects | [View Project](https://saitejaswi06.github.io/Portfolio/)
 
-### Semi-humanoid Robot (RIGGU) | [View Project](https://saitejaswi06.github.io/Portfolio/)
+### Semi-humanoid Robot (RIGGU) 
 - ROS2-driven differential drive robot using ESP32 micro-ROS and real-time joystick control.
 - Integrated 2D SLAM (RPLiDAR + Nav2) and custom Battery Management System for stable autonomous operation.
 
