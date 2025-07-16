@@ -33,7 +33,7 @@ Electrical & Electronics Engineering student @ **NIT Calicut**, passionate about
 
 ### ⚙️ Interests:
 - VLSI Design: Analog, Digital & Mixed-Signal 
-- Embedded Systems (C, Python, Verilog)
+- Embedded Systems
 - Robotics & Control Systems
 - PCB Design & Power Electronics
 
