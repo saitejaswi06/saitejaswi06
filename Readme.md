@@ -121,17 +121,13 @@ My primary areas of interest include:
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saitejaswi06&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitejaswi06&layout=compact&theme=tokyonight" width="48%" alt="Top Languages">
-</div>
+<!-- GitHub Stats temporarily removed due to Vercel API rate limits -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saitejaswi06&theme=tokyonight" width="98%" alt="GitHub Streak">
 </p>
 
 ---
-*PS: Want to add the moving snake animation? Since it requires setting up a GitHub Actions workflow in your repository, you can enable it by following [this guide](https://github.com/Platane/snk)!*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75000,100:4400FF&height=120&section=footer"/>
