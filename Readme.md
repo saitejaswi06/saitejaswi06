@@ -112,11 +112,7 @@ My primary areas of interest include:
 
 ## 📊 GitHub Insights
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saitejaswi06&theme=tokyonight&no-frame=true&no-bg=true" alt="Trophies" />
-</div>
 
-<br/>
 
 <!-- Highly Technical Addition: Activity Graph over 31 Days -->
 <div align="center">
